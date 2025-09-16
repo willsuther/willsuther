@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Will Sutherland
 
-🎓 MSc Candidate in Applied Mathematics & Statistics  
+🎓 MSc in Applied Mathematics & Statistics  
 📊 Data Scientist | Consultant | Educator  
 📍 Halifax, NS | 🏌️ Avid Golfer | 🏃‍♂️ Runner | 💻 R Enthusiast
 
