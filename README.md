@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a data scientist with a passion for turning complex problems into elegant, actionable insights. With a strong foundation in applied statistics and a love for R, I specialize in time series analysis, survey calibration, and data visualization. I thrive at the intersection of analytics, business strategy, and storytelling — whether I'm consulting for local businesses, teaching university students, or optimizing performance for Canada's largest naval shipbuilding program.
+I'm a data scientist with a passion for turning complex problems into elegant, actionable insights. With a strong foundation in applied statistics and a love for R, I specialize in time series analysis, survey calibration, and data visualization. I thrive at the intersection of analytics, business strategy, and storytelling - whether I'm consulting for local businesses, teaching university students, or optimizing performance for Canada's largest naval shipbuilding program.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a data scientist with a passion for turning complex problems into elegant, a
 
 - **Languages**: R, Python, SQL  
 - **Platforms**: Tableau, Alteryx, RStudio, Git  
-- **Methods**: Time Series, Survey Calibration, Data Wrangling, Visualization  
+- **Methods**: Machine Learning, Agentic AI, LLMs, Reinforcement Learning, Time Series, Survey Calibration, Data Wrangling, Visualization  
 - **Soft Skills**: Stakeholder communication, cross-functional collaboration, project leadership
 
 ---
@@ -35,7 +35,7 @@ I'm a data scientist with a passion for turning complex problems into elegant, a
 
 - 🔬 `MastersThesis`: Iterative calibration weighting applied to sensor validation and commodity pricing  
 - 📊 `Spring2024_AcadiaU_RWorkshop`: Hands-on R workshop for students and faculty — data wrangling, ggplot2, and more  
-- 🧪 `ConsultingProjects`: (Coming soon) Anonymized case studies from Sutherland Analytical Consulting
+- 🧪 `Machine-Learning-2026W`: Assignments tackling various machine learning problems
 
 ---
 
