@@ -2,7 +2,7 @@
 
 🎓 MSc in Applied Mathematics & Statistics  
 📊 Data Scientist | Consultant | Educator  
-📍 Halifax, NS | 🏌️ Avid Golfer | 🏃‍♂️ Runner | 💻 R Enthusiast
+📍 Halifax, NS | 🏌️  Golfer | 🏃‍♂️ Runner | 💻 R Enthusiast
 
 ---
 
